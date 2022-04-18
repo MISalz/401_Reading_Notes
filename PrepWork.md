@@ -18,6 +18,8 @@ This video relates back to Growth Mindset. How does one measure postive outcome 
  
 ### [Alain de Botton on Redefining Success.](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)
 
+Alain talks about creating your own version of reality. What others may think is success may not be your own thoughts on what success is. Do not conform to the idea that you are sucessful by others standards. Instead measure your own sucess by what you believe is the best outcome for you.
+
 ### [Assess your emotional intelligence.](https://codefellows.github.io/common_curriculum/career_coaching/201/emotional-intelligence-assessment.html)
 
 I score high in Self awareness(22), Social Awareness(20) and Self Management (19). I agree with these results and in relationship management (14) is where I am already aware I need to improve. My social skills lack due to being a bit introverted and having to navigate alot of my teen/young adult life on my own. Ive always been someone who just identifies problems but rather work on resolving them myself. I shy away from others because of feeling intimidated. 
