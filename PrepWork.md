@@ -4,18 +4,23 @@
 
 ## The Growth Mindset
 
-### [Upgrade Your Technical Skills with Deliberate Practice]()
+### [Upgrade Your Technical Skills with Deliberate Practice](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice)
 
-### [Carol Dweck on the Growth Mindset.]()
+Per the article, the advice given is to practice what you find difficult. You dont need to practice what you already know, instead pratice in the areas you are most uncomfortable. This is being deliberate in your learning. 
 
-### [Angela Lee Duckworth on Grit.]()
+### [Carol Dweck on the Growth Mindset.](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
+
+### [Angela Lee Duckworth on Grit.](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
  
-### [Alain de Botton on Redefining Success.]()
+### [Alain de Botton on Redefining Success.](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)
 
-### [Assess your emotional intelligence.]()
+### [Assess your emotional intelligence.](https://codefellows.github.io/common_curriculum/career_coaching/201/emotional-intelligence-assessment.html)
 
-### [Assess your biases.]()
+I score high in Self awareness(22), Social Awareness(20) and Self Management (19). I agree with these results and in relationship management (14) is where I am already aware I need to improve. My social skills lack due to being a bit introverted and having to navigate alot of my teen/young adult life on my own. Ive always been someone who just identifies problems but rather work on resolving them myself. I shy away from others because of feeling intimidated. 
 
+### [Assess your biases.](https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.html)
+
+I have high sense of self awareness as well as bias. I also understand that we are all guilty of conscious and unconscious bias so it is something we should continue to be aware of. For me being a minority i understand how bias affects me on multiple levels so it helps to sympathize and understand its effects on others. 
 
 ----
 
