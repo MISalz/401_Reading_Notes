@@ -3,7 +3,7 @@
 Michelle Salazar   
 401d18 Reading Notes for Advanced Software Development in Python April-June 2022
 
-[Code 201 - Foundations of Software Development](https://github.com/MISalz/201_Reading_notes_022022)
+[Code 201 - Foundations of Software Development](https://github.com/MISalz/201_Reading_Notes)
 [Code 301 - Intermediate Software Development](https://github.com/MISalz/301_Reading_Notes)
 [Code 401 - Advanced Software Development in Python](https://github.com/MISalz/401_Reading_Notes)
 
