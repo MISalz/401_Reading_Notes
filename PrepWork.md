@@ -33,10 +33,20 @@ I have high sense of self awareness as well as bias. I also understand that we a
 ## Practice in the Terminal
 
 [The Command Line - What is it, how does it work and how do I get to one.](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
+
 [Basic Navigation - An introduction to the Linux directory system and how to get around it.](https://ryanstutorials.net/linuxtutorial/navigation.php)
+
+
 [More About Files - Find out some interesting characteristics of files and directories in a Linux environment.](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+
+
 [Manual Pages - Learn how to make the most of the Linux commands you are learning.](https://ryanstutorials.net/linuxtutorial/manual.php)
+
+
 [File Manipulation - How to make, remove, rename, copy and move files and directories.](https://ryanstutorials.net/linuxtutorial/filemanipulation.php)
+
+
 [Cheat Sheet - A quick reference for the main points covered in this tutorial.](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
 
 ----
