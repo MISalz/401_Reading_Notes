@@ -10,7 +10,11 @@ Per the article, the advice given is to practice what you find difficult. You do
 
 ### [Carol Dweck on the Growth Mindset.](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
 
+This video was interesting, the reward mindset has been questions for years. the thought process of rewarding for good behavior versus participation and attempt behavior. According To Carol people who are rewarded by attempt and participation are encouraged to keep trying therefore will seek out challenges and will have positive outlook towards challenges.
+
 ### [Angela Lee Duckworth on Grit.](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
+
+This video relates back to Growth Mindset. How does one measure postive outcome in education? Is it by IQ, Income, Surroundings? Accoirding to Angela who has been studying students for years she says its Grit. Some people have more than others but the reality is that anyone can have grit, or learn to have it. This is where the growth mindset comes in. 
  
 ### [Alain de Botton on Redefining Success.](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)
 
