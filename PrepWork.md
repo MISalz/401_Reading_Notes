@@ -1,13 +1,39 @@
-# PrepWork
+# PrepWork 
 
-# Upgrade Your Technical Skills with Deliberate Practice
+----
 
-# Carol Dweck on the Growth Mindset.
+## The Growth Mindset
 
-# Angela Lee Duckworth on Grit.
+### [Upgrade Your Technical Skills with Deliberate Practice]()
+
+### [Carol Dweck on the Growth Mindset.]()
+
+### [Angela Lee Duckworth on Grit.]()
  
-# Alain de Botton on Redefining Success.
+### [Alain de Botton on Redefining Success.]()
 
-# Assess your emotional intelligence. If you have done it in the past, now you can identify the areas you have grown in recently.
+### [Assess your emotional intelligence.]()
 
-# Assess your biases. If you have done it in the past, now you can identify the areas you have grown in recently.
+### [Assess your biases.]()
+
+
+----
+
+## Practice in the Terminal
+
+[The Command Line - What is it, how does it work and how do I get to one.](https://ryanstutorials.net/linuxtutorial/commandline.php)
+[Basic Navigation - An introduction to the Linux directory system and how to get around it.](https://ryanstutorials.net/linuxtutorial/navigation.php)
+[More About Files - Find out some interesting characteristics of files and directories in a Linux environment.](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+[Manual Pages - Learn how to make the most of the Linux commands you are learning.](https://ryanstutorials.net/linuxtutorial/manual.php)
+[File Manipulation - How to make, remove, rename, copy and move files and directories.](https://ryanstutorials.net/linuxtutorial/filemanipulation.php)
+[Cheat Sheet - A quick reference for the main points covered in this tutorial.](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
+
+----
+
+# Introduction to SQL
+
+https://sqlbolt.com
+
+I already had experience with SQL but I was unaware of the limit and offset. The use of these operators to filter data will help me in the future when working with large data sets. 
+
+<img src=img/2022-04-17_18-05-05.jpg>
