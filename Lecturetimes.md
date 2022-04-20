@@ -1,6 +1,8 @@
 # 401d18 Lecture Times
 Instructor **JB Tellez**
 
+**Note: Lecture times are based on instructor screen clock**
+
 |Class #|Times|Links|
 |---|---|---
 |**4/18/2022 - Class 01:**|<ul><li>9:00 Intro</li><li>10:13 languages and code editor</li><li>10:24 Canvas overview</li><li>10:48 Python overview</li><li>10:55 Python Version<br>python3 -V<br>make virtual environment (like NPM)<br>python3 -m venv .venv<br>you need to activate virtual enviorment<br>source .venv/bin/activate<br> when you get the (.venv) before folder name it means its activated<br><img src=img/2022-04-18_11-09-21.jpg><br>deactivate<br>when in virtual enviorment, you can run command below to see version running on virtual enviorment.<br>python -V</li><li>11:24 afterbreak discussion</li><li>11:27 lab01 overview</li><li>11:37 git repo<br> git init<br></li><li>11:39 gst.<br> make sure you git add . and git commit before cloning repo<br></li><li>11:40 github do not initilize with Readme and license or gitignore</li><li>11:45 data structures and algorithms lab</li></ul>|<ol><li>Data Structures https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/</li><li>lab submission instructions https://codefellows.github.io/code-401-python-guide/reference/submission-instructions/labs/</li><li>Python arrays geeksforgeeks.org/python-arrays/</li><li>readme template  https://codefellows.github.io/code-401-python-guide/reference/submission-instructions/labs/README-template.html</li><li>Invision (whiteboarding) https://www.invisionapp.com/home</li></ol>
