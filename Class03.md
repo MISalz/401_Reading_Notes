@@ -1,4 +1,4 @@
-# Class01 Reading Notes
+# Class02 Reading Notes
 
 Reading
 [Read & Write Files in Python ](https://realpython.com/read-write-files-python/)
@@ -57,3 +57,11 @@ Videos
 
 Bookmark and Review
 [Reading and Writing Files in Python Quiz](https://realpython.com/quizzes/read-write-files-python/)
+
+
+----
+
+## Things I want to know more about
+
+----
+[Home](https://github.com/MISalz/401_Reading_Notes/blob/main/README.md)
