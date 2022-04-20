@@ -55,8 +55,7 @@ Bookmark and Review
 [Pytest Documentation](https://docs.pytest.org/en/latest/)
 
 [PyTest Tutorial](https://www.guru99.com/pytest-tutorial.html)  
-
-     Up to section Running tests in parallel
+-Up to section Running tests in parallel
 
 
 ----
