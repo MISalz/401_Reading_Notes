@@ -11,7 +11,40 @@ Instructor **JB Tellez**
 |**4/21/2022 - Class 04:**|<ul><li>09:09 code_challenge03 review </li><li>09:40 Lab04 overview</li><li>10:16 Lab03 review</li><li>10:17 setup project folders</li><li>pip black flake</li><li>10:20 freeze requirements<br>	pip install pytest watch<br>\__init__.py</li><li>10:23 copy tests from </li><li>10:28 ptw (py test watch)</li><li>10:35 assets folder</li><li>10:37 .strip (remove extra line)</li><li>11:58 regex solutions <br>1. r"(?<=\{)(.*?)(?=\})"<br>2. {(.*?)}<br>3. r'{[^}]*}'<br></li><li>11:32 demo</li><li>11:44 class sub class</li><li>12:03 super().</li><li>12:05 reset count</li><li>12:09 increment</li><li>12:12 lab review </li></ul>|<ol><li>Tai link: https://thebittheories.com/the-curious-case-of-binary-search-the-famous-bug-that-remained-undetected-for-20-years-973e89fc212</li><li>[Exponent TV](https://www.youtube.com/c/ExponentTV)</li><li>[regex](https://docs.python.org/3/library/re.html)</li></ol>
 |**4/22/2022 - Class 05:**|<ul><li>02:03 linked lists</li><li>02:26 traversal</li><li> 2:40 Data structures and algorithms folder</li><li>2:50 pip install pytest --> run pytest</li><li>2:51 pytest -k linked_list.py </li></ul>|[Linked list](https://www.educative.io/edpresso/how-to-create-a-linked-list-in-python)
 |**4/25/2022 - Class 06:**|<ul><li>9:22 lab05 review</li><li>9:31 class vs static methods</li><li>9:34 static method example</li><li>10:08 superclass Class Lookups</li><li>10:22 code challenge 05 overview</li><li> 10:27 linked list to str example</li><li>10:43 traverse</li><li>10:45 code challenge06 overview<br>linked list<br></li><li>11:10 lab06 overview</li><li>11:21 risk assessment</li><li>11:38 pytest ini</li><li>11:47 demo</li><li>11:57 Random in python</li></ul>|<ol><li>[PEP8 docs](https://peps.python.org/pep-0008/#introduction) - The Python style guide, as approved by the Python community. When in doubt with formatting, names, or anything style-related, check here first.</li><li>[Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html) - Collection of things to avoid when writing code, and the alternative approaches that should be used instead. Super nice for learning to feel confident in the code you write.</li><li>[Python 3 Module of the Week](https://pymotw.com/3/index.html) - A collection of articles explaining each of the modules in Python’s standard library. Can be a good alternative when the official docs are hard to understand, since these are written with digestibility in mind.</li><li>https://github.com/swsms/pythonism</li></ol>
-|**4/26/2022 - Class 07:**| |
+|**4/26/2022 - Class 07:**|09:23 lab06 review
+9:50 code challenge07 overview
+10:16 calculate score
+11:13 Lab07 overview
+.io = input output
+pip install -r requirements.txt
+11:14 riddler 
+python -m testing_io. riddler
+11:18 main gate
+11:21 simulator library code
+11:21 simulator library code
+riddler simulator
+ simulation text
+parse through template
+dependency injection -> will put in a mock substitute function, substitute mock input function,
+
+11:26 builtins.print & input = hold on to real input but for now, use mock.print
+
+11:26 if pytest doesnt work, any subdirectory of tests needs dunder init
+11:35 diffs  difference between expected and input, 
+11:43 lab question
+11:45 randomness roll dice
+11:51 setup
+ copy version_2 folder to our project
+flo.py goes at top of test folder  `</simulates the running of your game>
+
+in tests folders need dunder init, flo.py, 4x version folders
+
+11:55 run game
+
+11:57 game.py 
+12:01 roll dice
+python -m  ten_thousand/game.py
+ |
 |**4/27/2022 - Class 08:**| |
 |**4/28/2022 - Class 09:**| |
 |**4/29/2022 - Class 10:**| |
