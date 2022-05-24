@@ -1,6 +1,6 @@
-# Class20 Reading Notes
+# Class21 Reading Notes
 
-
+# Midterms
 ----
 
 ## Things I want to know more about

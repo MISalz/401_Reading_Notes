@@ -1,5 +1,6 @@
-# Class20 Reading Notes
+# Class23 Reading Notes
 
+# Midterms
 
 ----
 
